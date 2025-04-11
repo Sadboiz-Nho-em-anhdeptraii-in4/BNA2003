@@ -1,0 +1,23 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Debug HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "Java_NetCoreAPI",
+            "vmArgs": "--enable-preview",
+            "args": "",
+            "stopOnEntry": false,
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
