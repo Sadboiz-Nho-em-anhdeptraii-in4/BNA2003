@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Bai2",
+            "request": "launch",
+            "mainClass": "Bai2",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
             "name": "BaiToan",
             "request": "launch",
             "mainClass": "BaiToan",
