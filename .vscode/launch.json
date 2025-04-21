@@ -3,6 +3,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TinhTrungBinhCong",
+            "request": "launch",
+            "mainClass": "vong_lap_for.TinhTrungBinhCong",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "In20SoNguyenDuong",
+            "request": "launch",
+            "mainClass": "vong_lap_for.In20SoNguyenDuong",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "TinhGiaiThua",
+            "request": "launch",
+            "mainClass": "TinhGiaiThua",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "TinhTongVuot100",
+            "request": "launch",
+            "mainClass": "TinhTongVuot100",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Day",
+            "request": "launch",
+            "mainClass": "cau_truc_ifelse.Day",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "NhomTuoi",
+            "request": "launch",
+            "mainClass": "cau_truc_ifelse.NhomTuoi",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "cau_truc_ifelse.Date",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "InCacSoNhoHon5",
+            "request": "launch",
+            "mainClass": "vong_lap_for.InCacSoNhoHon5",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "TinhTongNhoHon100",
+            "request": "launch",
+            "mainClass": "cau_truc_ifelse.TinhTongNhoHon100",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "Date",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "TimSoNhoNhat",
+            "request": "launch",
+            "mainClass": "cau_truc_ifelse.TimSoNhoNhat",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
             "name": "Bai2",
             "request": "launch",
             "mainClass": "Bai2",
