@@ -3,6 +3,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxTrongMaTran",
+            "request": "launch",
+            "mainClass": "MaxTrongMaTran",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "TimMaxTrongMaTran",
+            "request": "launch",
+            "mainClass": "TimMaxTrongMaTran",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "SapXepMangTangDan",
+            "request": "launch",
+            "mainClass": "SapXepMangTangDan",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "DemKyTuXuatHien",
+            "request": "launch",
+            "mainClass": "DemKyTuXuatHien",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "DemKyTuTrongChuoi",
+            "request": "launch",
+            "mainClass": "DemKyTuTrongChuoi",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
             "name": "TinhTrungBinhCong",
             "request": "launch",
             "mainClass": "vong_lap_for.TinhTrungBinhCong",
