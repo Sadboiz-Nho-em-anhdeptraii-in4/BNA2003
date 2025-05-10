@@ -1,5 +1,7 @@
 package cau_truc_ifelse;
+
 import java.util.Scanner;
+
 public class TimSoNhoNhat {
  public static void main(String[] args){
   int firstNumber, secondNumber;

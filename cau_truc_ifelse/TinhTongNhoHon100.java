@@ -1,5 +1,5 @@
-package cau_truc_ifelse;
 import java.util.Scanner;
+
 public class TinhTongNhoHon100 {
   public static void main(String[] args) {
     int number, sum = 0;

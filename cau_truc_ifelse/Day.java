@@ -1,4 +1,3 @@
-package cau_truc_ifelse;
 import java.util.Scanner;
 
 public class Day {

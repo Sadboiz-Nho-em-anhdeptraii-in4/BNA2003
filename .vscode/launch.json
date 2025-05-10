@@ -3,6 +3,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "StudentStudent",
+            "request": "launch",
+            "mainClass": "StudentStudent",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Day",
+            "request": "launch",
+            "mainClass": "Day",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
             "name": "MaxTrongMaTran",
             "request": "launch",
             "mainClass": "MaxTrongMaTran",

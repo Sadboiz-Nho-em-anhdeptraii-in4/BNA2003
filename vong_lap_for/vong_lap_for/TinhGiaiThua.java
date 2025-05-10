@@ -1,3 +1,4 @@
+package vong_lap_for;
 import java.util.Scanner;
 
 public class TinhGiaiThua {
