@@ -1,1 +1,9 @@
 demo... (noi dung dau tien)
+// 1. Khai báo class (Phương thức và thuộc tính)
+// - Thuộc tính: Phạm_vi_truy_cập Kiểu_dữ_liệu Tên_thuộc_tính
+// - Khai báo phương thức: Phương thức khởi tạo, phương thức có tham số, Kiểu dữ liệu trả về của phương thức
+// 2. Khởi tạo đối tượng từ class: Class_Name tên = new Class_Name();
+// 3. Truy cập vào thuộc tính và phương thức của đối tượng: tên.thuộc_tính, tên.phương_thức();
+// 4. Phạm vi truy cập: public, private, protected, default
+// 5. Kế thừa: Class_Con extends Class_Cha => class con thừa hưởng tất cả tất cả các thuộc tính 
+// 6. Tính trừu tượng: abstract class và interface. 

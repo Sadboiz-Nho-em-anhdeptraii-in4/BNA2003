@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MainClass",
+            "request": "launch",
+            "mainClass": "main.MainClass",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
             "name": "Student",
             "request": "launch",
             "mainClass": "Student",
