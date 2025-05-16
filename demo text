@@ -7,3 +7,25 @@ demo... (noi dung dau tien)
 // 4. Phạm vi truy cập: public, private, protected, default
 // 5. Kế thừa: Class_Con extends Class_Cha => class con thừa hưởng tất cả tất cả các thuộc tính 
 // 6. Tính trừu tượng: abstract class và interface. 
+
+
+Nhập n phần tử kiểu Student vàp ArrayList sau đó hiển thị ra màn hình
+- Tạo class Student: các thuốcj tính và 2 phương thức nhập(), xuất()
+ Viết trong phương thức main của class thực thi:
+- Khai báo arrayList lưu trữ dữ liệu kiểu student
+- Nhập số n từ bàn phím
+- Sử dụng vòng lặp for 0 -> <n để nhập dữ liệu vào array list:
+    + khởi tạo 1 đối tượng từ class Student
+    + Nhập dữ liệu cho đối tượng => gọi phương thức nhập()
+    + thêm phần tử vào arrayList => sử dụng phương thức add();
+- Sử dụng vòng lặp for 0 -> <n để hiện thị dữ liệu của arrayLít
+    + sử dụng phương thức get(i) => lấy phần tử thứ i trong arrayList
+    + gọi tới phương thức xuất() để hiển thị dữ liệu
+
+
+
+Class_Name ten = new Class_Name;
+Student std = new Student();
+Person ps = new Person();
+ArrayList<Student> arrayList = new ArrayList<>();
+LinkedList<Student> linkList = new LinkedList<>();

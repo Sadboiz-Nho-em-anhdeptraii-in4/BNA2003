@@ -3,6 +3,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArrayListExample",
+            "request": "launch",
+            "mainClass": "src.ArrayListExample",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "LinkHashSetExp1",
+            "request": "launch",
+            "mainClass": "src.LinkHashSetExp1",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Hash",
+            "request": "launch",
+            "mainClass": "src.Hash",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Date",
+            "request": "launch",
+            "mainClass": "src.Date",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "Linked",
+            "request": "launch",
+            "mainClass": "src.Linked",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "MaxArrList",
+            "request": "launch",
+            "mainClass": "src.MaxArrList",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "ArrList",
+            "request": "launch",
+            "mainClass": "src.ArrList",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "Java_NetCoreAPI_4ace5f94"
+        },
+        {
+            "type": "java",
             "name": "MainClass",
             "request": "launch",
             "mainClass": "main.MainClass",
