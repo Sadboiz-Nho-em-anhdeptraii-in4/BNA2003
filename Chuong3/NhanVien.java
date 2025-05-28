@@ -1,4 +1,4 @@
-package main;
+package Chuong3;
 
 /**
  * Lớp trừu tượng NhanVien làm lớp cha cho các loại nhân viên cụ thể

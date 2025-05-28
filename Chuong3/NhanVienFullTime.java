@@ -1,4 +1,4 @@
-package main;
+package Chuong3;
 
 /**
  * Lớp nhân viên toàn thời gian

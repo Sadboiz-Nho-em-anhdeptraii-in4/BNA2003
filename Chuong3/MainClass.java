@@ -1,4 +1,4 @@
-package main;
+package Chuong3;
 
 public class MainClass {
     public static void main(String[] args) {

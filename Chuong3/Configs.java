@@ -1,4 +1,4 @@
-package main;
+package Chuong3;
 
 /**
  * Lớp chứa các hằng số cấu hình
