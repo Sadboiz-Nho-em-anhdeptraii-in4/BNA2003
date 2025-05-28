@@ -9,7 +9,7 @@ demo... (noi dung dau tien)
 // 6. Tính trừu tượng: abstract class và interface. 
 
 
-Nhập n phần tử kiểu Student vàp ArrayList sau đó hiển thị ra màn hình
+Nhập n phần tử kiểu Student vào ArrayList sau đó hiển thị ra màn hình
 - Tạo class Student: các thuốcj tính và 2 phương thức nhập(), xuất()
  Viết trong phương thức main của class thực thi:
 - Khai báo arrayList lưu trữ dữ liệu kiểu student
